@@ -26,6 +26,7 @@ function showAll(productsArray) {
 
     })
 
+    
     list.innerHTML = myLi
 }
 
